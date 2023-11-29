@@ -11,9 +11,7 @@ This project demonstrates the implementation of a data storing and processing pi
 
 1. Clone this repository:
 
-    ```bash
     git clone https://github.com/vladimirovich124/BD_Lab2
-    ```
 
 2. Navigate to the project directory:
 
